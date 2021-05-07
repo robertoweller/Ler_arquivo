@@ -1,2 +1,2 @@
-# Ler_arquivo
-Exemplo de leitura de arquivo.
+# Ler arquivo
+Exemplo de leitura de arquivo, e criação de média de alunos.
